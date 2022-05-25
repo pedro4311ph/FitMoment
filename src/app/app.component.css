@@ -1,0 +1,25 @@
+.logo {
+  margin: auto;
+  display: block;
+  justify-content: center;
+  margin-top: 7rem;
+  width: 5rem;
+  height: 5rem;
+}
+.loginCadasto {
+  width: 282px;
+  display: grid;
+  justify-content: center;
+}
+.login {
+  width: 14rem;
+  background-color: #94e0a6;
+  margin: 0%;
+
+  border-radius: 3rem;
+}
+.info {
+  display: block;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
